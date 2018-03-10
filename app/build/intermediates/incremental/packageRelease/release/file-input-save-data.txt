@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 22 22:39:50 NOVT 2018
+0.baseType=DIRECTORY
+0.base=/home/vlad/Documents/code/java/QR_generator/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

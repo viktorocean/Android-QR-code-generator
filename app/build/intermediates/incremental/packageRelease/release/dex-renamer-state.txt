@@ -1,0 +1,4 @@
+#Thu Feb 22 22:39:49 NOVT 2018
+base.0=/home/vlad/Documents/code/java/QR_generator/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

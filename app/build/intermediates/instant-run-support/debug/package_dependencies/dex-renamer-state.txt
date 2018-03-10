@@ -1,0 +1,4 @@
+#Fri Feb 23 12:56:37 NOVT 2018
+base.0=/home/vlad/Documents/code/java/QR_generator/app/build/intermediates/transforms/dexMerger/debug/29
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/vlad/Documents/code/java/QR_generator/app/src/main/assets"/><source path="/home/vlad/Documents/code/java/QR_generator/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/vlad/Documents/code/java/QR_generator/app/src/release/assets"/></dataSet></merger>
